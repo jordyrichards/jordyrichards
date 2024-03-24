@@ -1,4 +1,4 @@
-:deer: Senior Software Developer at Sky, specialising in fullstack JS development, including React, NodeJS, Graphql and MongoDB
+:deer: Technical Lead at Sky, specialising in fullstack JS development, including React, NodeJS, Graphql and MongoDB
 
 :teacher: Languages known: JS, Java, C++, SQL, PLSQL, HTML, CSS, TS, GO, Clojure
 
